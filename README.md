@@ -4,7 +4,7 @@
 
 This repository provides comprehensive datasets about Qatar to support your data innovation journey. You can combine these core datasets with additional sources to create impactful solutions during the NPC-Microsoft Datathon 2025.
 
-> Note: Check our Defintions and Dictionary [here](https://www.npc.qa/en/statistics/dictionary/Pages/default.aspx)
+> Note: Check out Statistical Defintions and Dictionary [here](https://www.npc.qa/en/statistics/dictionary/Pages/default.aspx)
 
 ## Repository Structure
 
@@ -148,4 +148,4 @@ industry manufacturing in Qatar. ( Qatar Petroleum)
 
 ## Support
 
-Need help? Join our Discord community for support and discussions!
+Need help? Ask mentor in Discord community for support and discussions!
